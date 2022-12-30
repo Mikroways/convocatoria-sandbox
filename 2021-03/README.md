@@ -9,3 +9,4 @@ El siguiente listado corresponde a los aspirantes:
 * [Matias Garcia](aspirante-garcia.matias/)
 * [Marco Cristofano](aspirante-cristofano.marco/)
 * [Ariadna Aspitia](aspirante-aspitia.ariadna/)
+* [Manuel Kloster](aspirante-kloster.manuel/)
